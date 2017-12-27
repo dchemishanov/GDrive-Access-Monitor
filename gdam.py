@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 #from __future__ import print_function
 """
-Google Drive Files Access Monitor
+Google Drive Access Monitor
 This script is based on the Google's quick start guide to Google Drive API: https://developers.google.com/drive/v3/web/quickstart/python
 It uses the Oauth2 authentication mechanism and modifies the api call for file metadata. Every other change is entirely my own.
 This script is developed as an internal tool for Strypes EOOD https://www.strypes.eu, part of the Dutch Tech Cluster
 Author: Dzhovani Chemishanov
-Version: 1.0
+Version: 0.3
 Date: 2017-12-04
 License: Apache 2.0 http://www.apache.org/licenses/LICENSE-2.0
 
