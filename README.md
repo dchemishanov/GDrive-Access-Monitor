@@ -10,7 +10,7 @@ Date: 2017-12-04
 License: Apache 2.0 http://www.apache.org/licenses/LICENSE-2.0
 
 The script is intended for companies that are trying to review the security of their files in the cloud and the unintended exposure of sensitive information to the wider Internet. Paid services do exist, but  they require administrative access to the Google Drive which is unnecessary. The current script could be executed by any employee showing all public files and those visible to the entire company.
-For security reasons, obtaining your own credentials for authentication is highly recommended.
+Obtaining your own credentials for authentication is necessary to run the script.
 
 The script lists all visible files on Google Drive that have any public or domain-wide permissions. The report is returned in a structured table that could be formatted in accordance with the user's needs. By default the results are sent to a results.txt file in the current directory. If you want the 
 
